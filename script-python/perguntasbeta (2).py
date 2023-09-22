@@ -1,0 +1,15 @@
+nome=input('Oii,qual o seu nome?')
+pedido=input('Qual seu esporte preferido?')
+solucao=input('Legal,torce para qual time?')
+final=input('Liverpool? daora. ')
+print('então voce nasceu em uma boa epoca né?')
+print(nome,pedido,solucao,final)
+
+dia=input('você nasceu no dia')
+mes=input('de ')
+ano=input('em...')
+print(dia,mes,ano)
+nume=input('me diga um numero')
+nomi=input('outro')
+print('nume'+'nomi')
+
